@@ -1,31 +1,33 @@
 {
   "files": {
     "main.css": "/EasyU/static/css/main.40f644ea.chunk.css",
-    "main.js": "/EasyU/static/js/main.81afb0b0.chunk.js",
-    "main.js.map": "/EasyU/static/js/main.81afb0b0.chunk.js.map",
+    "main.js": "/EasyU/static/js/main.077eac5c.chunk.js",
+    "main.js.map": "/EasyU/static/js/main.077eac5c.chunk.js.map",
     "runtime-main.js": "/EasyU/static/js/runtime-main.cff2c710.js",
     "runtime-main.js.map": "/EasyU/static/js/runtime-main.cff2c710.js.map",
-    "static/js/2.855c4152.chunk.js": "/EasyU/static/js/2.855c4152.chunk.js",
-    "static/js/2.855c4152.chunk.js.map": "/EasyU/static/js/2.855c4152.chunk.js.map",
+    "static/js/2.8ffab6aa.chunk.js": "/EasyU/static/js/2.8ffab6aa.chunk.js",
+    "static/js/2.8ffab6aa.chunk.js.map": "/EasyU/static/js/2.8ffab6aa.chunk.js.map",
     "index.html": "/EasyU/index.html",
-    "precache-manifest.08b8da1f680c7f394dbf5e106167dec7.js": "/EasyU/precache-manifest.08b8da1f680c7f394dbf5e106167dec7.js",
+    "precache-manifest.1dfed1554ca78cf80c6f5d11392e6278.js": "/EasyU/precache-manifest.1dfed1554ca78cf80c6f5d11392e6278.js",
     "service-worker.js": "/EasyU/service-worker.js",
     "static/css/main.40f644ea.chunk.css.map": "/EasyU/static/css/main.40f644ea.chunk.css.map",
-    "static/js/2.855c4152.chunk.js.LICENSE.txt": "/EasyU/static/js/2.855c4152.chunk.js.LICENSE.txt",
+    "static/js/2.8ffab6aa.chunk.js.LICENSE.txt": "/EasyU/static/js/2.8ffab6aa.chunk.js.LICENSE.txt",
+    "static/media/EmpWeb_Ranking.jpg": "/EasyU/static/media/EmpWeb_Ranking.82b51176.jpg",
     "static/media/blueback.jpg": "/EasyU/static/media/blueback.3092737b.jpg",
     "static/media/camila.jpg": "/EasyU/static/media/camila.3327bab3.jpg",
     "static/media/easyu.png": "/EasyU/static/media/easyu.e2665d4f.png",
     "static/media/publi_andes.jpg": "/EasyU/static/media/publi_andes.28232ff9.jpg",
     "static/media/publi_jave.jpg": "/EasyU/static/media/publi_jave.f183f02a.jpg",
     "static/media/publi_sabana.jpg": "/EasyU/static/media/publi_sabana.6c9b65e0.jpg",
+    "static/media/salarios.jpg": "/EasyU/static/media/salarios.1e8fafe4.jpg",
     "static/media/sistemasback.jpg": "/EasyU/static/media/sistemasback.33cf8df8.jpg",
     "static/media/sistemaslogo.jpg": "/EasyU/static/media/sistemaslogo.aabfa339.jpg",
     "static/media/unback.png": "/EasyU/static/media/unback.16677ec9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cff2c710.js",
-    "static/js/2.855c4152.chunk.js",
+    "static/js/2.8ffab6aa.chunk.js",
     "static/css/main.40f644ea.chunk.css",
-    "static/js/main.81afb0b0.chunk.js"
+    "static/js/main.077eac5c.chunk.js"
   ]
 }

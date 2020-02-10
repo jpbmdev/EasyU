@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "602ce5ed12e31c1136c9ff91b8119046",
+    "revision": "204fb6d130babfee345d4eb981df80e4",
     "url": "/EasyU/index.html"
   },
   {
-    "revision": "1b863f41b81f02495e60",
+    "revision": "cc4ca288659585902aa0",
     "url": "/EasyU/static/css/main.40f644ea.chunk.css"
   },
   {
-    "revision": "9c657a0cef00e24597f5",
-    "url": "/EasyU/static/js/2.855c4152.chunk.js"
+    "revision": "66792bc5a503b180fb13",
+    "url": "/EasyU/static/js/2.8ffab6aa.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/EasyU/static/js/2.855c4152.chunk.js.LICENSE.txt"
+    "url": "/EasyU/static/js/2.8ffab6aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b863f41b81f02495e60",
-    "url": "/EasyU/static/js/main.81afb0b0.chunk.js"
+    "revision": "cc4ca288659585902aa0",
+    "url": "/EasyU/static/js/main.077eac5c.chunk.js"
   },
   {
     "revision": "8259e61aa265c60bfb03",
     "url": "/EasyU/static/js/runtime-main.cff2c710.js"
+  },
+  {
+    "revision": "82b51176d7bda8d99f3c7d818f7f46de",
+    "url": "/EasyU/static/media/EmpWeb_Ranking.82b51176.jpg"
   },
   {
     "revision": "3092737b59d721408c4e27bea4d2db93",
@@ -46,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6c9b65e03a455ef71aa4b49901e2f9d4",
     "url": "/EasyU/static/media/publi_sabana.6c9b65e0.jpg"
+  },
+  {
+    "revision": "1e8fafe477f2feb82f8f4143768ba3da",
+    "url": "/EasyU/static/media/salarios.1e8fafe4.jpg"
   },
   {
     "revision": "33cf8df84956e274a3d033365bd84930",
