@@ -28,7 +28,7 @@ const Universities = (props) => {
                                 <img src={unlogo} class="mr-3" alt="..." style={{height: '100px'}}/>
                                 <div class="media-body">
                                     <h5 class="mt-0 mb-1">Universidad Nacional de Colombia</h5>
-                                    <Link className="btn btn-primary btn-sm my-1" to="Carreras">Mas información</Link>
+                                    <Link className="btn btn-primary btn-sm my-1" to="/Carreras">Mas información</Link>
                                     <br/>
                                     La Universidad Nacional de Colombia (UNAL) es una universidad pública colombiana del orden nacional, fundada bajo el gobierno de Santos Acosta el 22 de septiembre de 1867 y regentada por la Ley 66 de 1867. Es la universidad más importante y representativa de Colombia por su tradición, prestigio, calidad y selectividad. 
                                 </div>

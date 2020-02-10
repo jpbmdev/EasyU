@@ -9,6 +9,7 @@ import Tendencias from './pages/Trending';
 import Ayudas from './pages/Ayudas';
 import Perfil from './pages/Perfil';
 import Carreras from './pages/Carreras';
+import Carrera from './pages/Carrera';
 
 function App() {
   return (
@@ -35,6 +36,9 @@ function App() {
         </Route>
         <Route path="/Carreras" exact>
           <Carreras />
+        </Route>
+        <Route path="/Carrera" exact>
+          <Carrera />
         </Route>
         <Redirect to="/" />
       </Switch>
