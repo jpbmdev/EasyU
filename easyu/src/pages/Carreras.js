@@ -30,7 +30,7 @@ const Carreras = (props) => {
                             <li class="media my-4">
                                 <img src={sistemaslogo} class="mr-3" alt="..." style={{ height: '100px', width: '100px' }} />
                                 <div class="media-body">
-                                    <h5 class="mt-0 mb-1">Ingeniería de sistemas</h5>
+                                    <h5 class="mt-0 mb-1">Ingeniería de Sistemas</h5>
                                     <Link className="btn btn-primary btn-sm my-1" to="/Carrera">Mas información</Link>
                                     <br />
                                     La ingeniería de sistemas es una rama interdisciplinaria de la ingeniería que permite estudiar y comprender la realidad, con el propósito de implementar u optimizar sistemas complejos. Puede también verse como la aplicación tecnológica de la teoría de sistemas a los esfuerzos de la ingeniería, adoptando en todo este trabajo el paradigma sistémico.

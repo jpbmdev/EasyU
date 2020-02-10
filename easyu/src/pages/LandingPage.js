@@ -87,7 +87,7 @@ const LandingPage = (props) => {
                             <div class="card-body">
                                 <h5 class="card-title">Ayudas</h5>
                                 <p class="card-text">Ayudas de todo tipo para que tu sueño de entrar a la U sea real.</p>
-                                <Link className="nav-item active" to="/Ayudas">
+                                <Link className="nav-item active" to="/">
                                     <button className="btn btn-primary">Acceder</button>
                                 </Link>
                             </div>
